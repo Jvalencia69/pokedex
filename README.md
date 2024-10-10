@@ -26,6 +26,11 @@ Ejecutar en la raíz del proyecto:
 ```
 npm start
 ```
+## Paso para crear cuenta en Azure For Students
+
+# Iniciar seisón
+
+Diríjase al siguiente enlace e ingrese con su correo institucional [Aquí.](https://acortar.link/vMAJ7l)
 
 ## Referencias
 
